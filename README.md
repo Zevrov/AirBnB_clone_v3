@@ -218,7 +218,7 @@ github repo
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
 * Jared Ratner [OrangeB0lt](https://github.com/OrangeB0lt)
-* Wolf Hopkins [Zevrov](https://github.com/Zevrov
+* Wolf Hopkins [Zevrov](https://github.com/Zevrov)
 
 ## License
 
